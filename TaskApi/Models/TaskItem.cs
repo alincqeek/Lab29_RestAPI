@@ -1,5 +1,5 @@
 namespace TaskApi.Models;
-public class TaskIteam
+public class TaskItem
 {
     public int Id { get; set; }
     public string Title { get; set; } = string.Empty;
